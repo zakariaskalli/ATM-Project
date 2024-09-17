@@ -1,0 +1,3 @@
+﻿  Project 2.cpp
+D:\Programation Files\Programation Level 1\Algorith & Probleme solving levl 4\ATM Project\Project 2\Project 2.cpp(54,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Project 2.vcxproj -> D:\Programation Files\Programation Level 1\Algorith & Probleme solving levl 4\ATM Project\x64\Debug\Project 2.exe
